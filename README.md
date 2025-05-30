@@ -27,7 +27,7 @@ This is a fully responsive Image Gallery website created using HTML and CSS. It 
 <br>
 ⚫️Include JavaScript filters or categories
 <br>
-Integrate image zoom or lightbox on click
+⚫️Integrate image zoom or lightbox on click
 <br><hr>
 <h2>🤝 Connect with Me</h2>
 If you liked this project or have any feedback, feel free to connect with me on LinkedIn or open an issue in this repo!
