@@ -66,3 +66,23 @@
     opacity: 1;
     transform: scale(1.03);
 }
+@media (max-width: 768px) {
+  .card {
+    width: 48%; /* two cards per row on tablet */
+  }
+}
+
+@media (max-width: 480px) {
+  .card {
+    width: 100%; /* one card per row on mobile */
+  }
+
+  .container h1 {
+    font-size: 2rem;
+  }
+
+  .card figcaption {
+    font-size: 14px;
+    padding: 15px;
+  }
+}
